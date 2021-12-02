@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## EmoteLoad 遠程加載中國
+### 表情加載  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE 改變語言**]](https://emoteload.ml)
 
-You can use the [editor on GitHub](https://github.com/fireboydev/emoteload-ch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://cdn.discordapp.com/attachments/822621497272303698/902661535405600818/EMOTELOAD_BANNER.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Emoteload 表情加載 是一款專注於以簡單方式向您的服務器添加表情符號的機器人，只需一個命令，我們就有許多表情符號供您使用機器人獲得良好的體驗。
+將機器人添加到您的服務器，放入一些表情符號，然後開始聚會。 在那裡？ 讓我們去那兒？
 
-### Markdown
+[單擊此處查看表情符號](https://emojis.emoteload.ml)   
+[Discord 支持服務器](https://discord.gg/v6Srh9fr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+去，哪怕只是一點點，去，不要壞，去，一點點，好嗎？
+[開始旅程](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 創始人
+- Davizin128 (創始人)
+- FIRE BOY (創始人) 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireboydev/emoteload-ch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Copyright 版權 EmoteLoad 2021. 版權所有。 [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
